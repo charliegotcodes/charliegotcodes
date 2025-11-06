@@ -12,10 +12,10 @@
 
 ### 🚀 Featured Projects
 | Project | Description | Tech | Link |
-|--------|-------------|------|------|
-| **Spotify Playlist Generator** | Generates personalized playlists from listening data | Flask · Supabase · Spotify API | [![View on GitHub](https://img.shields.io/badge/Repo-SpotifyPlaylistGeneratorPy-black?style=for-the-badge&logo=github&logoWidth=30)](https://github.com/charliegotcodes/SpotifyPlaylistGeneratorPy) |
-| **Heart Disease Predictor** | ML model that predicts risk using patient data | Python · Scikit-Learn · Pandas | [![Repo](https://img.shields.io/badge/REPO-Heart--Disease--Predictor-black?style=for-the-badge&logo=github&logoWidth=30)](https://github.com/charliegotcodes/Heart-Disease-Predictor)|
-| **Automated-Amex-Expenditure-Script** | Automated script that produces a minimal dashboard for expense report | Python · Selenium | [![Repo](https://img.shields.io/badge/REPO-Automated--Amex--Expenditure--Script-black?style=for-the-badge&logo=github&logoWidth=30)](https://github.com/charliegotcodes/Automated-Amex-Expenditure-Script) |
+|--------|-------------|------|---------|
+| **Spotify Playlist Generator** | Generates personalized playlists from listening data | Flask · Supabase · Spotify API | [![View on GitHub](https://img.shields.io/badge/Repo-SpotifyPlaylistGeneratorPy-black?style=for-the-badge&logo=github&logoWidth=30&padding=14)](https://github.com/charliegotcodes/SpotifyPlaylistGeneratorPy) |
+| **Heart Disease Predictor** | ML model that predicts risk using patient data | Python · Scikit-Learn · Pandas | [![Repo](https://img.shields.io/badge/REPO-Heart--Disease--Predictor-black?style=for-the-badge&logo=github&logoWidth=30&padding=14)](https://github.com/charliegotcodes/Heart-Disease-Predictor)|
+| **Automated-Amex-Expenditure-Script** | Automated script that produces a minimal dashboard for expense report | Python · Selenium | [![Repo](https://img.shields.io/badge/REPO-Automated--Amex--Expenditure--Script-black?style=for-the-badge&logo=github&logoWidth=30&padding=14)](https://github.com/charliegotcodes/Automated-Amex-Expenditure-Script) |
 
 <!--
 **charliegotcodes/charliegotcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
