@@ -1,6 +1,21 @@
 ## Hi there 👋 My name is Kevin! I'm a CS graduate from Toronto, Canada 🇨🇦. 
 
 
+### 🔧 What I'm Working On
+- A Spotify Playlist Generator (Flask + Supabase + Spotify Web API)
+- Improving my C#, .NET, and SQL problem-solving skills
+
+### 🧠 Tech I Use
+| Languages | Tools/Frameworks | Other |
+|----------|-----------------|--------|
+| C#, JavaScript, Python | .NET, Flask, Node.js, Supabase | REST APIs, SQL, Git, Linux basics |
+
+### 🚀 Featured Projects
+| Project | Description | Tech | Link |
+|--------|-------------|------|------|
+| **Spotify Playlist Generator** | Generates personalized playlists from listening data | Flask · Supabase · Spotify API | [![View on GitHub](https://img.shields.io/badge/Repo-SpotifyPlaylistGeneratorPy-black?style=for-the-badge&logo=github)](https://github.com/charliegotcodes/SpotifyPlaylistGeneratorPy) |
+| **Heart Disease Predictor** | ML model that predicts risk using patient data | Python · Scikit-Learn · Pandas | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-Heart-Disease-Predictor-blue?style=for-the-badge&logo=github)](https://github.com/charliegotcodes/Heart-Disease-Predictor) |
+| **Automated-Amex-Expenditure-Script** | Automated script that produces a minimal dashboard for expense report | Python · Selenium | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-Automated-Amex-Expenditure-Script-blue?style=for-the-badge&logo=github)](https://github.com/charliegotcodes/Automated-Amex-Expenditure-Script) |
 
 <!--
 **charliegotcodes/charliegotcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
