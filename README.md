@@ -1,4 +1,4 @@
-## Hi there 👋 My name is Kevin! I'm a CS graduate from Toronto, Canada 🇨🇦. 
+## Hi there 👋 My name is Kevin! I'm a CS graduate based in Toronto, Canada 🇨🇦. 
 
 
 ### 🔧 What I'm Working On
