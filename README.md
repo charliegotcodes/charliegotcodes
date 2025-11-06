@@ -1,6 +1,7 @@
-## Hi there 👋
+## Hi there 👋 My name is Kevin! I'm a CS graduate from Toronto, Canada 🇨🇦. 
 
-My name is Kevin Charles! I'm from Toronto, Canada
+
+
 <!--
 **charliegotcodes/charliegotcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,3 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://komarev.com/ghpvc/?username=your-github-charliegotcodes&color=lightgrey)
