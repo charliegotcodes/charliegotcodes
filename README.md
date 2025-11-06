@@ -1,16 +1,16 @@
 ## Hi there 👋 My name is Kevin! I'm a CS graduate from Toronto, Canada 🇨🇦. 
 
 
-### 🔧 What I'm Working On
+<p align="center"> ### 🔧 What I'm Working On</p>
 - A Spotify Playlist Generator (Flask + Supabase + Spotify Web API)
 - Improving my C#, .NET, and SQL problem-solving skills
 
-### 🧠 Tech I Use
+<p align="center"> ### 🧠 Tech I Use</p>
 | Languages | Tools/Frameworks | Other |
 |----------|-----------------|--------|
 | C#, JavaScript, Python | .NET, Flask, Node.js, Supabase | REST APIs, SQL, Git, Linux basics |
 
-### 🚀 Featured Projects
+<p align="center"> ### 🚀 Featured Projects</p>
 | Project | Description | Tech | Link |
 |--------|-------------|------|---------|
 | **Spotify Playlist Generator** | Generates personalized playlists from listening data | Flask · Supabase · Spotify API | [![View on GitHub](https://img.shields.io/badge/Repo-SpotifyPlaylistGeneratorPy-black?style=for-the-badge&logo=github&logoWidth=30&padding=14)](https://github.com/charliegotcodes/SpotifyPlaylistGeneratorPy) |
@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://komarev.com/ghpvc/?username=your-github-charliegotcodes&color=lightgrey)
+<p align="center">![](https://komarev.com/ghpvc/?username=your-github-charliegotcodes&color=lightgrey)</p>
